@@ -3,7 +3,7 @@
 This repository contains my personal backup configuration for the [Starship](https://starship.rs) prompt.  
 Feel free to use or modify it to suit your own terminal setup.
 
-![Preview](ss.png)
+![Preview](SS1.png)
 
 ---
 
